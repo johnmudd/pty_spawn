@@ -1,5 +1,5 @@
 # pty_spawn
-Use pty.spawn() as poor man's pexpect.
+Use pty.spawn() as poor man's pexpect. Needed to automate tasks on thousands of very old Linux boxes.
 
 
 Sample usage:
